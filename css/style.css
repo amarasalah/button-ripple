@@ -41,7 +41,7 @@ body{
     top: var(--yIndex);
     left: var(--xIndex);
     transform: translate(-50%,-50%);
-    transition: width 0.44s, height 0.44s ;
+    transition: width 0.7s, height 0.7s ;
     border-radius: 50%;
 }
 .btn:hover::before{
